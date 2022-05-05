@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyApp</string> <!-- Change the name of your app here -->
+    <string name="action_refresh">refresh</string>
+</resources>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Add your colors here
+
+
+    Coloring the app:
+Need help figuring out what color hex you want?
+Visit https://color.adobe.com/ it's a great resource that will help you pick and it shows you the hex value
+
+
+1. Add your colors here in  colors.xml
+3.  Then open styles.xml to theme your app
+
+    -->
+
+    <color name="COLOR_LIGHT_GREY">#F2F2F2</color>
+    <color name="COLOR_GREY">#636363</color>
+    <color name="COLOR_SLATE">#796D5A</color>
+
+    <color name="COLOR_RED">#CC2314</color>
+    <color name="COLOR_ORANGE">#EF8626</color>
+    <color name="COLOR_YELLOW">#F0E500</color>
+    <color name="COLOR_GREEN">#9BB209</color>
+    <color name="COLOR_BLUE">#3D6999</color>
+    <color name="COLOR_PURPLE">#484256</color>
+
+    <color name="COLOR_LIGHT_RED">#FF6A40</color>
+    <color name="COLOR_LIGHT_ORANGE">#FFA200</color>
+    <color name="COLOR_LIGHT_YELLOW">#FFF662</color>
+    <color name="COLOR_LIGHT_GREEN">#C5D84B</color>
+    <color name="COLOR_LIGHT_BLUE">#568DC9</color>
+    <color name="COLOR_LIGHT_PURPLE">#9782C9</color>
+</resources>

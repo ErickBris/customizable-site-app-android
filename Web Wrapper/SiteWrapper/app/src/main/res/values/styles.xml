@@ -1,0 +1,30 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here.
+
+Coloring the app:
+Need help figuring out what color hex you want?
+Visit https://color.adobe.com/ it's a great resource that will help you pick and it shows you the hex value
+
+
+1. Add your colors to colors.xml
+2. Then pick your colors here
+
+        -->
+        <item name="colorPrimary">@color/COLOR_ORANGE</item> <!-- Where the back, forward, refresh... buttons are -->
+        <item name="colorPrimaryDark">@color/COLOR_LIGHT_ORANGE</item> <!-- Where the time is -->
+        <item name="colorAccent">@color/COLOR_LIGHT_GREEN</item>  <!-- Spinning progress bar -->
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+</resources>
